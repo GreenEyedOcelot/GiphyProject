@@ -52,7 +52,7 @@ $(document).ready(function () {
       var offset = $(this).data("offset");
       console.log("button offset is: " + offset);
       var quantity = $("#quantitymenu option:selected").attr("value")
-      var queryStr = "http://api.giphy.com/v1/gifs/search?q=" + window.encodeURI(topic) +
+      var queryStr = "https://api.giphy.com/v1/gifs/search?q=" + window.encodeURI(topic) +
          "&api_key=MjXFP7cW1sQX7gF8x8R9MvosdvYlNd2n&limit=" + quantity + "&offset=" + offset;
 
       var i, thisGif, thisFig, replaceStr, thisStillImg, thisAnimatedImg, thisRating, thisImgObj, thisTitle;
