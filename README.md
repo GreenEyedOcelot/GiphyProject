@@ -1,2 +1,4 @@
 # GiphyProject
-Use the Giphy API for a homework assignment
+
+This assignment has some extra features that go beyond the spec:
+

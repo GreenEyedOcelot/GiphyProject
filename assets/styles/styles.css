@@ -1,0 +1,47 @@
+body {
+    background-color: #fff;
+}
+.myselect {
+   margin: .2rem;
+}
+.mybtn {
+    margin: 0.2rem;
+}
+
+.mynav {
+    margin-bottom: 1rem;
+}
+
+.myform {
+    margin: auto;
+}
+
+.switchimage {
+   margin: auto;
+}
+
+
+#buttontext {
+    margin: 1rem;
+}
+
+#addbutton {
+   margin-right: 1rem;
+} 
+
+
+figure {
+    float: left;
+    margin: 0.75rem;
+    border: 1;
+    padding: 0.5rem;
+    box-shadow: 0.4rem 0.4rem 0.4rem 0.4rem #888888;
+}
+
+figcaption {
+    text-align: center;
+}
+
+
+
+
